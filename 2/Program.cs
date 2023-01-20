@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Введите кол-во элементов массива: ");
+﻿// Пузырьковая сортировка
+
+Console.WriteLine("Введите кол-во элементов массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[n]; 
 for (int i = 0; i < n; i++)
@@ -8,7 +10,7 @@ for (int i = 0; i < n; i++)
 }
 Console.WriteLine("Начальный массив: [" + string.Join(", ", array) + "]");
 
-for (int i = 0; i < n; i++)    // Пузырьковая сортировка
+for (int i = 0; i < n; i++)    
 {
     for (int j = 0; j < n - 1; j ++)
     {
