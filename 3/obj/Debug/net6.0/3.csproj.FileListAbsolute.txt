@@ -1,0 +1,15 @@
+D:\программирование\С#\буткемп\selection sort\3\bin\Debug\net6.0\3.exe
+D:\программирование\С#\буткемп\selection sort\3\bin\Debug\net6.0\3.deps.json
+D:\программирование\С#\буткемп\selection sort\3\bin\Debug\net6.0\3.runtimeconfig.json
+D:\программирование\С#\буткемп\selection sort\3\bin\Debug\net6.0\3.dll
+D:\программирование\С#\буткемп\selection sort\3\bin\Debug\net6.0\3.pdb
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\3.AssemblyInfo.cs
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\3.dll
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\refint\3.dll
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\3.pdb
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\3.genruntimeconfig.cache
+D:\программирование\С#\буткемп\selection sort\3\obj\Debug\net6.0\ref\3.dll
