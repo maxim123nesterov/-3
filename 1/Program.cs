@@ -1,4 +1,6 @@
-﻿using static Sortings;
+﻿// Сортировка выбором.
+
+using static Sortings;
 using static infrastrucure;
 
 int[] array = CreateArray(10);
